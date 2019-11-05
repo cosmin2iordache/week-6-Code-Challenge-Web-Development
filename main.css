@@ -3,6 +3,11 @@
       font-family: Montserrat, sans-serif;
 }
 
+#garden_link{
+      text-align: right;
+      padding: 0;
+}
+
 h1{
 font-size: 3.5em;
 font-weight: 400;
