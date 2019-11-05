@@ -7,7 +7,13 @@ img{
 width: 25%;
 filter: grayscale(0);
 }
+h2{
+      font-size: 4em;
+}
 
+/*.title:hover{
+      color: chocolate;
+}*/
 
 .container:hover{
       border-style: none;
