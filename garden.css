@@ -1,9 +1,17 @@
 body{
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      text-align: center;
       }
-
-
-
 img{
 width: 25%;
+filter: grayscale(0);
 }
+
+
+.container:hover{
+      filter: grayscale(1);
+      border-style: none;
+      border-radius: 100%;
+      transition: background-size 0.3s ease;
+      filter: grayscale(1);
+      transition: background-size 0.3s ease; 
