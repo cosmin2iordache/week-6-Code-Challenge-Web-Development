@@ -3,6 +3,11 @@ body{
       text-align: center;
       background: rgb(116, 153, 233);
       }
+#garden_link{
+            text-align: right;
+            padding: 0;
+      }
+
 img{
 width: 25%;
 filter: grayscale(0);
