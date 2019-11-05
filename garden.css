@@ -1,7 +1,8 @@
 body{
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-family: Montserrat, sans-serif;
       text-align: center;
       background: rgb(116, 153, 233);
+      font-size: 75.5%;
       }
 #garden_link{
             text-align: right;
